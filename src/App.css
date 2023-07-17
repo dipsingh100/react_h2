@@ -4,6 +4,7 @@
 }
 
 body{
+  height: auto;
   background-image: linear-gradient(to bottom, cyan -293px, pink 280px, white 625px);
   background-repeat: no-repeat;
   background-attachment: scroll;
